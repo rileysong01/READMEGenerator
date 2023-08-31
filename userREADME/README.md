@@ -1,17 +1,18 @@
-# s
+# d
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  d
+  
   ## Table of Contents
 
   ## Installation 
-  f
-  ## Usage
-  a
-  ## Contributions
   s
+  ## Usage
+  d
+  ## Contributions
+  d
   ## Testing
   d
   ## License
-  This application is covered under the huh license.
+  This application is covered under the MIT license.
   ## Questions
-  Please reach out to s, at github.com/s or at d for additional questions. 
+  Please reach out to d, at github.com/d or at s for additional questions. 
