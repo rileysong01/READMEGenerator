@@ -39,7 +39,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What kinda of licensing does this project use?',
-        choices: ['MIT', 'none']
+        choices: ['MIT', 'Apache 2.0', 'GNU General Public', 'none']
     },
     {
         type: 'input',
@@ -64,9 +64,9 @@ const writeToFile = (fileName, data) => {
 
 // TODO: Create a function to initialize app
 const init = () => {
-    inquirer.prompt(questions).then((data) => {
-        console.log(data);
-        writeToFile('./userREADME/README.md', generateMarkdown(data))
+    inquirer.prompt(questions).then((response) => {
+        console.log(response);
+        writeToFile('./userREADME/README.md', generateMarkdown(response))
     })
 }
    
