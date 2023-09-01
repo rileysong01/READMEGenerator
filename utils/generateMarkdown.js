@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 const renderLicenseBadge = (license) => {
   if (license === 'none') {
@@ -12,7 +12,7 @@ const renderLicenseBadge = (license) => {
   }
 }
 
-// TODO: Create a function that returns the license link
+// function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'none') {
@@ -26,8 +26,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// function that returns the license section of README
 function renderLicenseSection(license) {
   if (license === 'none') {
     return '';
@@ -40,20 +39,20 @@ function renderLicenseSection(license) {
   }
 }
 
-// TODO: Create a function to generate markdown for README
+// function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.projectTitle}
   ${renderLicenseBadge(data.license)}
   ## Description
   ${data.projectDescr}
   ## Table of Contents
-  *[Description](#Description)
-  *[Installation](#Installtion)
-  *[Usage](#Usage)
-  *[Contributions](#Contributions)
-  *[Testing](#Testing)
-  *[License](#License)
-  *[Questions](#Questions)
+  [Description](#Description)\n
+  [Installation](#Installation)\n
+  [Usage](#Usage)\n
+  [Contributions](#Contributions)\n
+  [Testing](#Testing)\n
+  [License](#License)\n
+  [Questions](#Questions)\n
 
   ## Installation 
   ${data.installationInst}
