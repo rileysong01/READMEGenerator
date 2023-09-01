@@ -1,26 +1,26 @@
-# README generator
-  ![Static Badge](https://img.shields.io/badge/License-Apache2.0-blue)
+# d
+  ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
   ## Description
-  Making a readme
+  
   ## Table of Contents
-  [Description]
-  [Installation]
-  [Usage]
-  [Contributions]
-  [Testing]
-  [License]
-  [Questions]
+  *[Description](#Description)
+  *[Installation](#Installtion)
+  *[Usage](#Usage)
+  *[Contributions](#Contributions)
+  *[Testing](#Testing)
+  *[License](#License)
+  *[Questions](#Questions)
 
   ## Installation 
-  click
+  d
   ## Usage
-  use
+  d
   ## Contributions
-  me
+  s
   ## Testing
-  idk
+  d
   ## License
-  A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-  [https://www.apache.org/licenses/](https://www.apache.org/licenses/)
+  A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+  [https://opensource.org/license/mit/](https://opensource.org/license/mit/)
   ## Questions
-  Please reach out to rileysong, at github.com/rileysong or at gmail for additional questions. 
+  Please reach out to , at [https://github.com/](https://github.com/) or at s for additional questions. 
